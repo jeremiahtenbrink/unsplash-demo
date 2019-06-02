@@ -1,0 +1,11 @@
+.pictures {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.picture {
+  padding: 2rem;
+  outline: 7px solid black;
+  margin: 2rem;
+}
